@@ -4,7 +4,23 @@ date = 2023-10-25T15:11:32+02:00
 draft = false
 weight = 3
 +++
+Fighters cleave with merciless metal. Clerics/mystics create displays to further their gods. Druids scrabble and tangle, loosening the hardpack foundation of civilization. Wizards...do wizardly things.
 
+Warlocks?
+
+A soul is a piddly, wretched thing. It animates a single fleshy shell and then weeps after death while being plucked away like a wet dishrag in a tornado. A soul is worth more than molochian vaults of spoils and less than the freshest, most succulent of the apple crop.
+
+What, then, defines the worth of a soul? Why do some people write off the ephemera within in exchange for cryptic messages, debt-infested spells, and byzantine demands? Why do strange beings accept these souls?
+
+A commonly said aphorism holds that success is being in the right place at the right time. Something that is not so commonly said holds that the soul is a reflection of oneself, waxing and waning with its blood-soaked glove.
+
+Tyrants, archmages, bishops, serial killers - each of these have powerful souls. Junkies, misers, gluttons - these have weak, fluttering things, tethered to their body like a butterfly pinned to a starched shirt.
+
+As your life is what you make of it, so is your soul. Power without equals power within. All souls begin equal, but all souls end up extremely different. Discerning patrons have a knack for determining the potential of a given soul. Potential is a sort of spiritual cryptocurrency in the otherworlds, waxing and waning with the current apocalyptic chance. It's unreliable and potentially useless, but those otherworlders who desire a way out of the typical power structure try to hoard and nurture sources of potential. Occasionally Requiem hangs in the balance.
+
+Every warlock makes a pact, and every pact is inscribed on two places: the surface of the warlock's brain and their patron's personal record. Warlocks of exceptional puissance find the inside of their skulls engraved with a negative of their pact, and the details of a pact can be inferred from an intact warlock skull.
+
+If you are a warlock, you are probably desperate, impulsive, and have no positive qualities except for determination. You're going to be a wonderful tool.
 ## Starting Equipment
 
 A black goat. A forked dagger. A capirote. A spell book, a quill, but no ink.
