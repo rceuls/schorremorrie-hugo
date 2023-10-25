@@ -5,6 +5,16 @@ draft = false
 weight = 13
 +++
 
+Imagine what we three-dimensional creatures might look like to something that exists in only two.
+
+Slice after infinitesimal slice, intimate organic images within revealed by uncommon geometry. This is not us, not as we truly are, merely fractions seen from a limited perspective.
+
+Now imagine what we creatures that live in the flash-sequence of moments, a single dimension of time, might look to those above:
+
+First a worm, stretching from birth to death, a summation of everything we have been, and ever could be. Then, the connections appear. The worm is a braided thing. Our substance was once our father's, our mother's. To those above we are one line, separate only in some places. If that being above looks further, it will see these connections stretch beyond. All living things, all life on this planet, linked together at the foundation, the organism of organisms.
+
+This tangled tree, rooted in the primordial soup and stretching tentative boughs into the end of time, is what necromancers gnaw away at like so many worms. Tear up its roots to make skeletons dance. Slurp the future from its womb. Drink and shout and revel and kill, for death's tide is ever-rising and you rise with it.
+
 ## Starting Equipment
 
 A Black spellbook, Ink and Quill, And your choice of a Shovel, a Surgeon Kit, or the Skull of your ancestor.
@@ -141,3 +151,5 @@ You can only give your undeads 1 order per round. If you invest 4 [dice] or more
 **D**: [dice] x 10 minutes
 
 You are surrounded by the harmonious sounds of an invisible ghostly five-piece band for the duration of the spell. All of your actions now have more panache and flair. If you hide, for example, the music stops, only to burst into a dramatic loud chord jump scare, stunning surprised creatures. If you invest 4 [dice] or more into this spell, the duration becomes permanent.
+
+[Source](https://archonsmarchon.blogspot.com/2021/06/glog-class-necromancer-wizard.html)
