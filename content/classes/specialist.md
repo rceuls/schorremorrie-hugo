@@ -4,7 +4,6 @@ date = 2023-10-25T08:56:16+02:00
 draft = false
 weight = 18
 +++
-# The Specialist
 
 ## Starting Equipment
 Roll a [failed career](http://tenfootpolemic.blogspot.com/2014/01/200-failed-medieval-careers.html)

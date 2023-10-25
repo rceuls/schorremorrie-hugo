@@ -4,8 +4,6 @@ date = 2023-10-25T09:01:23+02:00
 draft = false
 weight = 25
 +++
-# The Zouave 
-
 You are a Zouave, light infantry trained for ambush, scouting and extended periods in the field. You are not a noble, but neither are you a peasant levie. You volunteered to protect your homeland. You provided your own equipment, learned the art of war, rose through the ranks, became a cunning veteran, seized victory in battles where you were outnumbered 20-to-1, shaped the face of the world with nothing but your sword-arm and sturdy snapchance — and then you won, and the war was over.
 
 Most of your friends are turnip farmers or fishermen now, or dead. You tried the peaceful life. Maybe you even stuck with it for a few years; but when you realized the only thing you looked forward to was sharing half-true war-stories with the old men in the tavern, you took your sword and your gun down from the wall and set out on your last adventure

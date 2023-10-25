@@ -5,14 +5,11 @@ draft = false
 weight = 17
 +++
 
-
-# Ranger
-For every Ranger template you have, gain +1 Stealth.
-
 ## Starting Equipment
 Animal Companion, Shortbow
 
 ## Templates
+For every Ranger template you have, gain +1 Stealth.
 
 - A: Animal Companion, Survivalist
 - B: Wilderness Sense, Forecast

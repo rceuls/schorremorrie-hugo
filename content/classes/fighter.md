@@ -5,8 +5,6 @@ draft = false
 weight = 5
 +++
 
-# The Fighter
-
 ## Starting Equipment
 Choose three times: a Weapon of your choice, 12 pieces of Ammunition, a Piece of Armor of your choice.
 

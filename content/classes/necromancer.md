@@ -5,8 +5,6 @@ draft = false
 weight = 13
 +++
 
-# The Necromancer
-
 ## Starting Equipment
 
 A Black spellbook, Ink and Quill, And your choice of a Shovel, a Surgeon Kit, or the Skull of your ancestor.
