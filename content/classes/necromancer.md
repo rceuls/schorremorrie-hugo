@@ -101,7 +101,7 @@ Ectoplasmogenesis can interact with other necromancer wizard spells in the follo
 - Temporarily recreates your body when you're in a soul jar
 
 #### 6. Danse Macabre
-**R**: 50 feet **T**: Creatures and corpses up to [sum] HD and/or [sum] corpses ****D: Concentration
+**R**: 50 feet **T**: Creatures and corpses up to [sum] HD and/or [sum] corpses **D**: Concentration
 
 All affected must save or dance for the duration. You must provide music to dance to for the entire duration, though this can be as simple as humming. You can slowly lead the dance in a direction up to 5 ft./round. If you're about to lead a dancer into dangerous circumstances (off a cliff, into a fire, etc.), they immediately get another save. If a dancer is attacked they automatically break out of the spell. If the spell affects a living partner for every dead one, then all targets take disadvantage on their save.
 
