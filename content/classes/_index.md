@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Classes"
-weight = 1
+weight = 2
 +++
 
 An overview of classes
