@@ -4,7 +4,6 @@ date = {{ .Date }}
 draft = true
 weight = 1
 +++
-# The {{ replace .File.ContentBaseName "-" " " | title }}
 
 ## Starting Equipment
 
