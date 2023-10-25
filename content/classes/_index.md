@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
-title = "Rules"
+title = "Classes"
 weight = 1
 +++
 
-Core rules
+An overview of classes
