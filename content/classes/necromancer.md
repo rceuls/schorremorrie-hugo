@@ -23,7 +23,7 @@ A Black spellbook, Ink and Quill, And your choice of a Shovel, a Surgeon Kit, or
 Your choice of Mortuary Cult Embalmer, Renegade Archeologist, Local Occultist, or Mad Doctor.
 
 ## Templates
-For every Necromancer template you have, you gain one extra Spell Dice, you can endure an extra 2 Wounds before you die, and, if you have your spellbook, learn a new Necromantic Spell.
+For every Necromancer template you have, you gain one extra Spell Dice, you can endure an extra 2 Wounds before you die, and, if you have your spellbook, learn a new Necromantic Spell. Necromantic spells are stored in your psyche. Necromancers get a second random spell from the necromancer school at level 1.
 
 - A: Necromantic Magic, The Threshold of Death
 - B: Harvest
@@ -51,7 +51,7 @@ Each morning when the sun rises, you choose whether you are Living, Undead, or D
 - If you are dead, your undead followers have as much HP as you have wounds.
 
 ### Undeath
-You no longer die when you reach your Wound limit. Instead you lose a limb every time you would die. Consider finding spare limbs or new bodies.
+You no longer die when you reach your Wound limit. Instead, you lose a limb every time you would die. Consider finding spare limbs or new bodies.
 
 ## Spells
 

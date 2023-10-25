@@ -21,4 +21,4 @@ For every {{ replace .File.ContentBaseName "-" " " | title }} template you have,
 
 ### Template Skill 2
 
-[source](https://www.google.com)
+[Source](https://www.google.com)
